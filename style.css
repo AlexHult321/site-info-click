@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+font-family: 'Fira Sans', sans-serif;
+}
+
 .cabecalho{
     background-color: #4061A0;
     color: rgb(255, 255, 255);
@@ -41,4 +45,28 @@
 
 .infoclick-titulo{
     padding: 24px 0;
+}
+
+.informante-imagem{
+    width: 120px;
+}
+
+.informante-icone{
+    width: 24px;
+    margin: 30px;
+}
+
+.informante-div{
+    text-align: center;
+}
+
+.rodape{
+    background-color: #4061A0;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 40px;
+    padding: 12px 0;
+    
 }
